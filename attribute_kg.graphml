@@ -1,0 +1,1838 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="domain" attr.type="string"/>
+<key id="d0" for="graph" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">g</data>
+<node id="biometric personal data">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#BiometricPersonalData&gt;</data>
+</node>
+<node id="digital signature">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#DigitalSignature&gt;</data>
+</node>
+<node id="sensitive personal data">
+  <data key="d1">&lt;http://umaine.edu/gdpr#SensitiveData&gt;</data>
+</node>
+<node id="ethnic personal data">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#EthnicPersonalData&gt;</data>
+</node>
+<node id="identity personal data">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#IdentityPersonalData&gt;</data>
+</node>
+<node id="bill address">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#BillingAddress&gt;</data>
+</node>
+<node id="national id">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#NationalId&gt;</data>
+</node>
+<node id="hispanic or latino">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Hispanic_or_Latino&gt;</data>
+</node>
+<node id="personal data">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#PersonalData&gt;</data>
+</node>
+<node id="technical personal data">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#TechnicalPersonalData&gt;</data>
+</node>
+<node id="cookie information">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#CookieInformation&gt;</data>
+</node>
+<node id="search term">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#SearchTerm&gt;</data>
+</node>
+<node id="drive license">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#DrivingLicense&gt;</data>
+</node>
+<node id="gdpr health data">
+  <data key="d1">&lt;http://umaine.edu/gdpr#HealthData&gt;</data>
+</node>
+<node id="activity personal data">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#ActivityPersonalData&gt;</data>
+</node>
+<node id="post">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Posts&gt;</data>
+</node>
+<node id="genetic personal data">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#GeneticPersonalData&gt;</data>
+</node>
+<node id="demographic personal data">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#DemographicPersonalData&gt;</data>
+</node>
+<node id="country">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Country&gt; &amp; &lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Country&gt;</data>
+</node>
+<node id="health personal data">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#HealthPersonalData&gt;</data>
+</node>
+<node id="body temperature">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#BodyTemperature&gt;</data>
+</node>
+<node id="ideological personal data">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#IdeologicalPersonalData&gt;</data>
+</node>
+<node id="social medium account">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#SocialMediaAccount&gt;</data>
+</node>
+<node id="weight">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Weight&gt; &amp; &lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Weight&gt;</data>
+</node>
+<node id="pixel tag">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#PixelTags&gt;</data>
+</node>
+<node id="psychological data">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#PsychologicalData&gt;</data>
+</node>
+<node id="electrocardiogram">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Electrocardiogram&gt;</data>
+</node>
+<node id="individual data">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#IndividualData&gt;</data>
+</node>
+<node id="vein recognition">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#VeinRecognition&gt;</data>
+</node>
+<node id="language">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Language&gt; &amp; &lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Language&gt;</data>
+</node>
+<node id="financial personal data">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#FinancialPersonalData&gt;</data>
+</node>
+<node id="third party payment">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#ThirdPartyPayment&gt;</data>
+</node>
+<node id="american indian or alaska native">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#American_Indian_or_Alaska_Native&gt;</data>
+</node>
+<node id="philosophical belief">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PhilosophicalBelief&gt;</data>
+</node>
+<node id="muscle fat">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#MuscleFat&gt;</data>
+</node>
+<node id="religious belief">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#ReligiousBelief&gt;</data>
+</node>
+<node id="calender event">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Calender_Events&gt;</data>
+</node>
+<node id="log file">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#LogFiles&gt;</data>
+</node>
+<node id="dna">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#DNA&gt;</data>
+</node>
+<node id="water percentage">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#WaterPercentage&gt;</data>
+</node>
+<node id="credit card number">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#CreditCardNumber&gt;</data>
+</node>
+<node id="share content">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Shared_Content&gt;</data>
+</node>
+<node id="white">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#White&gt;</data>
+</node>
+<node id="genetric characteristic">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Genetric_Characteristics&gt;</data>
+</node>
+<node id="ethnicity">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Ethnicity&gt; &amp; &lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Ethnicity&gt;</data>
+</node>
+<node id="anonymized data"/>
+<node id="ipaddress">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#IPAddress&gt;</data>
+</node>
+<node id="payment history">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Payment_History&gt;</data>
+</node>
+<node id="fax number">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#FaxNumber&gt;</data>
+</node>
+<node id="age">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Age&gt; &amp; &lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Age&gt;</data>
+</node>
+<node id="image of the food">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Image_of_the_Food&gt;</data>
+</node>
+<node id="sexual personal data">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#SexualPersonalData&gt;</data>
+</node>
+<node id="medication">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Medication&gt;</data>
+</node>
+<node id="health status data"/>
+<node id="iris recognition">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#IrisRecognition&gt;</data>
+</node>
+<node id="mail address">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#MailingAddress&gt;</data>
+</node>
+<node id="genetic disease">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Genetic_Disease&gt;</data>
+</node>
+<node id="phone">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Phone&gt;</data>
+</node>
+<node id="credit rat">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#CreditRating&gt;</data>
+</node>
+<node id="serial number">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Serial_Number&gt;</data>
+</node>
+<node id="food habit">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Food_Habit&gt;</data>
+</node>
+<node id="device log">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#DeviceLogs&gt;</data>
+</node>
+<node id="finger print">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#FingerPrint&gt;</data>
+</node>
+<node id="public chat">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#PublicChat&gt;</data>
+</node>
+<node id="sleep log">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Sleep_Log&gt;</data>
+</node>
+<node id="name">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Name&gt; &amp; &lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Name&gt;</data>
+</node>
+<node id="browser history">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#BrowserHistory&gt;</data>
+</node>
+<node id="social security number">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#SocialSecurityNumber&gt;</data>
+</node>
+<node id="content interaction">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Content_Interaction&gt;</data>
+</node>
+<node id="dateof birth">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#DateofBirth&gt;</data>
+</node>
+<node id="infer personal data"/>
+<node id="voice recognition">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#VoiceRecognition&gt;</data>
+</node>
+<node id="browser type">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#BrowserType&gt;</data>
+</node>
+<node id="finger geometry">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#FingerGeometry&gt;</data>
+</node>
+<node id="political belief">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Political_Belief&gt;</data>
+</node>
+<node id="black or african american">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Black_or_African_American&gt;</data>
+</node>
+<node id="diagnosis symptom">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#DiagnosisSymptoms&gt;</data>
+</node>
+<node id="native hawaiian or other pacific islander">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Native_Hawaiian_or_Other_pacific_Islander&gt;</data>
+</node>
+<node id="device general set">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#DeviceGeneralSetting&gt;</data>
+</node>
+<node id="sex">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Sex&gt;</data>
+</node>
+<node id="rna">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#RNA&gt;</data>
+</node>
+<node id="sexual identity">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#SexualIdentity&gt;</data>
+</node>
+<node id="data item">
+  <data key="d1">&lt;http://purl.obolibrary.org/obo/IAO_0000027&gt;</data>
+</node>
+<node id="survey response">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Survey_Response&gt;</data>
+</node>
+<node id="facial recognition">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#FacialRecognition&gt;</data>
+</node>
+<node id="bank account">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#BankAccount&gt;</data>
+</node>
+<node id="height">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Height&gt; &amp; &lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Height&gt;</data>
+</node>
+<node id="blood pressure">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#BloodPressure&gt;</data>
+</node>
+<node id="video">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Video&gt;</data>
+</node>
+<node id="passport number">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#PassportNumber&gt;</data>
+</node>
+<node id="vehicle number">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#VehicleNumber&gt;</data>
+</node>
+<node id="time zone">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#TimeZone&gt;</data>
+</node>
+<node id="image">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Image&gt;</data>
+</node>
+<node id="race">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Race&gt; &amp; &lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Race&gt;</data>
+</node>
+<node id="asian">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Asian&gt;</data>
+</node>
+<node id="device unique identifier">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#DeviceUniqueIdentifier&gt;</data>
+</node>
+<node id="site registration">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#SiteRegistration&gt;</data>
+</node>
+<node id="web beacon">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#WebBeacon&gt;</data>
+</node>
+<node id="email">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Email&gt;</data>
+</node>
+<node id="technical model">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#Technical_Model&gt;</data>
+</node>
+<node id="private chat">
+  <data key="d1">&lt;http://umaine.edu/oppo/core/v1#PrivateChat&gt;</data>
+</node>
+<node id="pseudonymized personal data"/>
+<node id="contact">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Contact&gt;</data>
+</node>
+<node id="financial account">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#FinancialAccount&gt;</data>
+</node>
+<node id="account identifier">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#AccountIdentifier&gt;</data>
+</node>
+<node id="behavioral">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Behavioral&gt;</data>
+</node>
+<node id="vehicle usage">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#VehicleUsage&gt;</data>
+</node>
+<node id="identify">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Identifying&gt;</data>
+</node>
+<node id="username">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Username&gt;</data>
+</node>
+<node id="track">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Tracking&gt;</data>
+</node>
+<node id="digital fingerprint">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#DigitalFingerprint&gt;</data>
+</node>
+<node id="payment card">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PaymentCard&gt;</data>
+</node>
+<node id="family structure">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#FamilyStructure&gt;</data>
+</node>
+<node id="parent">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Parent&gt;</data>
+</node>
+<node id="owl thing"/>
+<node id="profile">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Profile&gt;</data>
+</node>
+<node id="physical address">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PhysicalAddress&gt;</data>
+</node>
+<node id="physical characteristic">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PhysicalCharacteristic&gt;</data>
+</node>
+<node id="pierce">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Piercing&gt;</data>
+</node>
+<node id="professional">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Professional&gt;</data>
+</node>
+<node id="performance at work">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PerformanceAtWork&gt;</data>
+</node>
+<node id="external">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#External&gt;</data>
+</node>
+<node id="medical health">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#MedicalHealth&gt;</data>
+</node>
+<node id="device base">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#DeviceBased&gt;</data>
+</node>
+<node id="dna code">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#DNACode&gt;</data>
+</node>
+<node id="payment card number">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PaymentCardNumber&gt;</data>
+</node>
+<node id="personality">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Personality&gt;</data>
+</node>
+<node id="biometric">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Biometric&gt;</data>
+</node>
+<node id="retina">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Retina&gt;</data>
+</node>
+<node id="vehicle">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Vehicle&gt;</data>
+</node>
+<node id="tattoo">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Tattoo&gt;</data>
+</node>
+<node id="work history">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#WorkHistory&gt;</data>
+</node>
+<node id="communication">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Communication&gt;</data>
+</node>
+<node id="social medium communication">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#SocialMediaCommunication&gt;</data>
+</node>
+<node id="social network">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#SocialNetwork&gt;</data>
+</node>
+<node id="acquantaince">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Acquantaince&gt;</data>
+</node>
+<node id="health">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Health&gt;</data>
+</node>
+<node id="physical health">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PhysicalHealth&gt;</data>
+</node>
+<node id="demographic">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Demographic&gt;</data>
+</node>
+<node id="physical trait">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PhysicalTrait&gt;</data>
+</node>
+<node id="education">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Education&gt;</data>
+</node>
+<node id="education qualification">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#EducationQualification&gt;</data>
+</node>
+<node id="job">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Job&gt;</data>
+</node>
+<node id="vehicle license">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#VehicleLicense&gt;</data>
+</node>
+<node id="preference">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Preference&gt;</data>
+</node>
+<node id="opinion">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Opinion&gt;</data>
+</node>
+<node id="sexual">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Sexual&gt;</data>
+</node>
+<node id="fetish">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Fetish&gt;</data>
+</node>
+<node id="official id">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#OfficialID&gt;</data>
+</node>
+<node id="passport">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Passport&gt;</data>
+</node>
+<node id="browser fingerprint">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#BrowserFingerprint&gt;</data>
+</node>
+<node id="health history">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#HealthHistory&gt;</data>
+</node>
+<node id="family health history">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#FamilyHealthHistory&gt;</data>
+</node>
+<node id="location">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Location&gt;</data>
+</node>
+<node id="birth place">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#BirthPlace&gt;</data>
+</node>
+<node id="ip address">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#IPAddress&gt;</data>
+</node>
+<node id="social">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Social&gt;</data>
+</node>
+<node id="interest">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Interest&gt;</data>
+</node>
+<node id="dislike">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Dislike&gt;</data>
+</node>
+<node id="email address">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#EmailAddress&gt;</data>
+</node>
+<node id="ownership">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Ownership&gt;</data>
+</node>
+<node id="car own">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#CarOwned&gt;</data>
+</node>
+<node id="family">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Family&gt;</data>
+</node>
+<node id="relationship">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Relationship&gt;</data>
+</node>
+<node id="favorite">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Favorite&gt;</data>
+</node>
+<node id="favorite food">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#FavoriteFood&gt;</data>
+</node>
+<node id="room number">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#RoomNumber&gt;</data>
+</node>
+<node id="individual health history">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#IndividualHealthHistory&gt;</data>
+</node>
+<node id="mental health">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#MentalHealth&gt;</data>
+</node>
+<node id="criminal">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Criminal&gt;</data>
+</node>
+<node id="sexual preference">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#SexualPreference&gt;</data>
+</node>
+<node id="public life">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PublicLife&gt;</data>
+</node>
+<node id="communication metadata">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#CommunicationsMetadata&gt;</data>
+</node>
+<node id="credit">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Credit&gt;</data>
+</node>
+<node id="credit stand">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#CreditStanding&gt;</data>
+</node>
+<node id="financial">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Financial&gt;</data>
+</node>
+<node id="transactional">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Transactional&gt;</data>
+</node>
+<node id="attitude">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Attitude&gt;</data>
+</node>
+<node id="knowledge and belief">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#KnowledgeBelief&gt;</data>
+</node>
+<node id="think">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Thought&gt;</data>
+</node>
+<node id="payment card expiry">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PaymentCardExpiry&gt;</data>
+</node>
+<node id="health record">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#HealthRecord&gt;</data>
+</node>
+<node id="mac address">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#MACAddress&gt;</data>
+</node>
+<node id="disability">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Disability&gt;</data>
+</node>
+<node id="vehicle license number">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#VehicalLicenseNumber&gt;</data>
+</node>
+<node id="transaction">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Transaction&gt;</data>
+</node>
+<node id="geographic">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Geographic&gt;</data>
+</node>
+<node id="personal document">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PersonalDocuments&gt;</data>
+</node>
+<node id="loan record">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#LoanRecord&gt;</data>
+</node>
+<node id="marital status">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#MaritalStatus&gt;</data>
+</node>
+<node id="work environment">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#WorkEnvironment&gt;</data>
+</node>
+<node id="credit record">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#CreditRecord&gt;</data>
+</node>
+<node id="internal">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Internal&gt;</data>
+</node>
+<node id="sexual history">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#SexualHistory&gt;</data>
+</node>
+<node id="house own">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#HouseOwned&gt;</data>
+</node>
+<node id="apartment own">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#ApartmentOwned&gt;</data>
+</node>
+<node id="link click">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#LinkClicked&gt;</data>
+</node>
+<node id="privacy preference">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PrivacyPreference&gt;</data>
+</node>
+<node id="professional certification">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#ProfessionalCertification&gt;</data>
+</node>
+<node id="device software">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#DeviceSoftware&gt;</data>
+</node>
+<node id="device application">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#DeviceApplications&gt;</data>
+</node>
+<node id="income">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Income&gt;</data>
+</node>
+<node id="professional evaluation">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#ProfessionalEvaluation&gt;</data>
+</node>
+<node id="social medium">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#SocialMedia&gt;</data>
+</node>
+<node id="financial account number">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#FinancialAccountNumber&gt;</data>
+</node>
+<node id="service consumption behavior">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#ServiceConsumptionBehavior&gt;</data>
+</node>
+<node id="character">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Character&gt;</data>
+</node>
+<node id="historical">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Historical&gt;</data>
+</node>
+<node id="criminal offense">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#CriminalOffense&gt;</data>
+</node>
+<node id="email content">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#EmailContent&gt;</data>
+</node>
+<node id="tv view behavior">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#TVViewingBehavior&gt;</data>
+</node>
+<node id="telephone number">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#TelephoneNumber&gt;</data>
+</node>
+<node id="reference">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Reference&gt;</data>
+</node>
+<node id="sale">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Sale&gt;</data>
+</node>
+<node id="religion">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Religion&gt;</data>
+</node>
+<node id="education experience">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#EducationExperience&gt;</data>
+</node>
+<node id="browse behavior">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#BrowsingBehavior&gt;</data>
+</node>
+<node id="browse referral">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#BrowsingReferral&gt;</data>
+</node>
+<node id="employment history">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#EmploymentHistory&gt;</data>
+</node>
+<node id="email address personal">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#EmailAddressPersonal&gt;</data>
+</node>
+<node id="criminal conviction">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#CriminalConviction&gt;</data>
+</node>
+<node id="age range">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#AgeRange&gt;</data>
+</node>
+<node id="age exact">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#AgeExact&gt;</data>
+</node>
+<node id="gps coordinate">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#GPSCoordinate&gt;</data>
+</node>
+<node id="personal possession">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PersonalPossession&gt;</data>
+</node>
+<node id="travel history">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#TravelHistory&gt;</data>
+</node>
+<node id="group membership">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#GroupMembership&gt;</data>
+</node>
+<node id="voice mail">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#VoiceMail&gt;</data>
+</node>
+<node id="favorite color">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#FavoriteColor&gt;</data>
+</node>
+<node id="association">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Association&gt;</data>
+</node>
+<node id="connection">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Connection&gt;</data>
+</node>
+<node id="purchase">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Purchase&gt;</data>
+</node>
+<node id="fingerprint">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Fingerprint&gt;</data>
+</node>
+<node id="hair color">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#HairColor&gt;</data>
+</node>
+<node id="proclivitie">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Proclivitie&gt;</data>
+</node>
+<node id="demeanor">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Demeanor&gt;</data>
+</node>
+<node id="intention">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Intention&gt;</data>
+</node>
+<node id="insurance">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Insurance&gt;</data>
+</node>
+<node id="reliability">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Reliability&gt;</data>
+</node>
+<node id="marriage">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Marriage&gt;</data>
+</node>
+<node id="sibling">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Sibling&gt;</data>
+</node>
+<node id="friend">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Friend&gt;</data>
+</node>
+<node id="authenticate">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Authenticating&gt;</data>
+</node>
+<node id="password">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Password&gt;</data>
+</node>
+<node id="like">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Like&gt;</data>
+</node>
+<node id="household">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Household&gt;</data>
+</node>
+<node id="general reputation">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#GeneralReputation&gt;</data>
+</node>
+<node id="credit capacity">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#CreditCapacity&gt;</data>
+</node>
+<node id="tax">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Tax&gt;</data>
+</node>
+<node id="user agent">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#UserAgent&gt;</data>
+</node>
+<node id="secret text">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#SecretText&gt;</data>
+</node>
+<node id="ethnic origin">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#EthnicOrigin&gt;</data>
+</node>
+<node id="income bracket">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#IncomeBracket&gt;</data>
+</node>
+<node id="favorite music">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#FavoriteMusic&gt;</data>
+</node>
+<node id="disciplinary action">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#DisciplinaryAction&gt;</data>
+</node>
+<node id="criminal pardon">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#CriminalPardon&gt;</data>
+</node>
+<node id="life history">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#LifeHistory&gt;</data>
+</node>
+<node id="interaction">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Interaction&gt;</data>
+</node>
+<node id="facial print">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#FacialPrint&gt;</data>
+</node>
+<node id="device operate system">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#DeviceOperatingSystem&gt;</data>
+</node>
+<node id="birth date">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#BirthDate&gt;</data>
+</node>
+<node id="purchase and spend habit">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PurchasesAndSpendingHabit&gt;</data>
+</node>
+<node id="call log">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#CallLog&gt;</data>
+</node>
+<node id="accent">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Accent&gt;</data>
+</node>
+<node id="genetic">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Genetic&gt;</data>
+</node>
+<node id="skin tone">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#SkinTone&gt;</data>
+</node>
+<node id="identifier">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Identifier&gt;</data>
+</node>
+<node id="past employment">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PastEmployment&gt;</data>
+</node>
+<node id="trade union membership">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#TradeUnionMembership&gt;</data>
+</node>
+<node id="pin code">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PINCode&gt;</data>
+</node>
+<node id="email address work">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#EmailAddressWork&gt;</data>
+</node>
+<node id="social status">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#SocialStatus&gt;</data>
+</node>
+<node id="criminal charge">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#CriminalCharge&gt;</data>
+</node>
+<node id="divorce">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Divorce&gt;</data>
+</node>
+<node id="credit worthiness">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#CreditWorthiness&gt;</data>
+</node>
+<node id="credit score">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#CreditScore&gt;</data>
+</node>
+<node id="financial status">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#FinancialStatus&gt;</data>
+</node>
+<node id="political opinion">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PoliticalOpinion&gt;</data>
+</node>
+<node id="publicly available social medium">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PubliclyAvailableSocialMedia&gt;</data>
+</node>
+<node id="picture">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Picture&gt;</data>
+</node>
+<node id="school">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#School&gt;</data>
+</node>
+<node id="political affiliation">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#PoliticalAffiliation&gt;</data>
+</node>
+<node id="blood type">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#BloodType&gt;</data>
+</node>
+<node id="gender">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Gender&gt;</data>
+</node>
+<node id="dialect">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Dialect&gt;</data>
+</node>
+<node id="authentication history">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#AuthenticationHistory&gt;</data>
+</node>
+<node id="current employment">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#CurrentEmployment&gt;</data>
+</node>
+<node id="voice communication record">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#VoiceCommunicationRecording&gt;</data>
+</node>
+<node id="prescription">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Prescription&gt;</data>
+</node>
+<node id="uid">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#UID&gt;</data>
+</node>
+<node id="drug test result">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#DrugTestResult&gt;</data>
+</node>
+<node id="professional interview">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#ProfessionalInterview&gt;</data>
+</node>
+<node id="vehicle license registration">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#VehicalLicenseRegistration&gt;</data>
+</node>
+<node id="nationality">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Nationality&gt;</data>
+</node>
+<node id="offspring">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Offspring&gt;</data>
+</node>
+<node id="salary">
+  <data key="d1">&lt;https://w3id.org/dpv/dpv-owl/dpv-pd#Salary&gt;</data>
+</node>
+<edge source="biometric personal data" target="digital signature">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="biometric personal data" target="vein recognition">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="biometric personal data" target="iris recognition">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="biometric personal data" target="finger print">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="biometric personal data" target="voice recognition">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="biometric personal data" target="finger geometry">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="biometric personal data" target="facial recognition">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="sensitive personal data" target="ethnic personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="sensitive personal data" target="ideological personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="sensitive personal data" target="gdpr health data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="sensitive personal data" target="sexual personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="sensitive personal data" target="financial personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="ethnic personal data" target="hispanic or latino">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="ethnic personal data" target="american indian or alaska native">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="ethnic personal data" target="white">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="ethnic personal data" target="black or african american">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="ethnic personal data" target="native hawaiian or other pacific islander">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="ethnic personal data" target="asian">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="identity personal data" target="bill address">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="identity personal data" target="national id">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="identity personal data" target="drive license">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="identity personal data" target="fax number">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="identity personal data" target="mail address">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="identity personal data" target="phone">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="identity personal data" target="name">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="identity personal data" target="social security number">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="identity personal data" target="video">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="identity personal data" target="passport number">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="identity personal data" target="vehicle number">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="identity personal data" target="image">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="identity personal data" target="email">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="personal data" target="sensitive personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="personal data" target="genetic personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="personal data" target="ideological personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="personal data" target="ethnic personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="personal data" target="technical personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="personal data" target="health personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="personal data" target="activity personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="personal data" target="biometric personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="personal data" target="infer personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="personal data" target="demographic personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="personal data" target="sexual personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="personal data" target="financial personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="personal data" target="pseudonymized personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="personal data" target="identity personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="technical personal data" target="cookie information">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="search term">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="social medium account">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="pixel tag">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="log file">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="ipaddress">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="serial number">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="device log">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="browser history">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="browser type">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="device general set">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="device unique identifier">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="site registration">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="web beacon">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="technical model">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="technical personal data" target="contact">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="gdpr health data" target="biometric personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="gdpr health data" target="genetic personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="gdpr health data" target="health status data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="activity personal data" target="post">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="activity personal data" target="calender event">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="activity personal data" target="share content">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="activity personal data" target="image of the food">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="activity personal data" target="food habit">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="activity personal data" target="public chat">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="activity personal data" target="sleep log">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="activity personal data" target="content interaction">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="activity personal data" target="survey response">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="activity personal data" target="private chat">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="genetic personal data" target="dna">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="genetic personal data" target="genetric characteristic">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="genetic personal data" target="genetic disease">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="genetic personal data" target="rna">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="demographic personal data" target="country">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="demographic personal data" target="weight">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="demographic personal data" target="language">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="demographic personal data" target="ethnicity">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="demographic personal data" target="age">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="demographic personal data" target="dateof birth">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="demographic personal data" target="sex">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="demographic personal data" target="height">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="demographic personal data" target="time zone">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="demographic personal data" target="race">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="health personal data" target="body temperature">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="health personal data" target="psychological data">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="health personal data" target="electrocardiogram">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="health personal data" target="muscle fat">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="health personal data" target="water percentage">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="health personal data" target="medication">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="health personal data" target="diagnosis symptom">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="health personal data" target="blood pressure">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="ideological personal data" target="philosophical belief">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="ideological personal data" target="religious belief">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="ideological personal data" target="political belief">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="individual data" target="personal data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="individual data" target="anonymized data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="language" target="accent">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="language" target="dialect">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="financial personal data" target="third party payment">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="financial personal data" target="credit card number">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="financial personal data" target="payment history">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="financial personal data" target="credit rat">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="financial personal data" target="bank account">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="ethnicity" target="race">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="ethnicity" target="ethnic origin">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="age" target="birth date">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="age" target="age range">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="sexual personal data" target="sexual identity">
+  <data key="d2">"has individual"</data>
+</edge>
+<edge source="data item" target="individual data">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="contact" target="physical address">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="contact" target="email address">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="contact" target="telephone number">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="financial account" target="account identifier">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="financial account" target="payment card">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="financial account" target="bank account">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="account identifier" target="financial account number">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="account identifier" target="payment card number">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="behavioral" target="vehicle usage">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="behavioral" target="performance at work">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="behavioral" target="personality">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="behavioral" target="attitude">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="behavioral" target="link click">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="behavioral" target="service consumption behavior">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="behavioral" target="browse behavior">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="behavioral" target="demeanor">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="behavioral" target="reliability">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="behavioral" target="call log">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="behavioral" target="authentication history">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="identify" target="username">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="identify" target="vehicle license">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="identify" target="biometric">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="identify" target="official id">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="identify" target="name">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="identify" target="picture">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="identify" target="uid">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="track" target="digital fingerprint">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="track" target="device base">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="track" target="user agent">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="track" target="location">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="track" target="identifier">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="track" target="contact">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="payment card" target="payment card number">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="payment card" target="payment card expiry">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="family structure" target="parent">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="family structure" target="marriage">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="family structure" target="sibling">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="family structure" target="divorce">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="family structure" target="offspring">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="owl thing" target="profile">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="owl thing" target="external">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="owl thing" target="track">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="owl thing" target="internal">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="owl thing" target="historical">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="owl thing" target="social">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="owl thing" target="household">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="owl thing" target="financial">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="physical characteristic" target="pierce">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="physical characteristic" target="tattoo">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="physical characteristic" target="age">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="physical characteristic" target="hair color">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="physical characteristic" target="height">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="physical characteristic" target="weight">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="physical characteristic" target="skin tone">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="physical characteristic" target="gender">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="professional" target="performance at work">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="professional" target="work history">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="professional" target="job">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="professional" target="education">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="professional" target="work environment">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="professional" target="professional certification">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="professional" target="professional evaluation">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="professional" target="reference">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="professional" target="employment history">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="professional" target="disciplinary action">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="professional" target="school">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="professional" target="professional interview">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="professional" target="salary">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="external" target="medical health">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="external" target="ethnicity">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="external" target="language">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="external" target="sexual">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="external" target="personal document">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="external" target="demographic">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="external" target="vehicle">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="external" target="identify">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="external" target="physical characteristic">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="external" target="behavioral">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="external" target="nationality">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="medical health" target="dna code">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="medical health" target="health">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="medical health" target="health record">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="medical health" target="disability">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="medical health" target="blood type">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="medical health" target="prescription">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="medical health" target="drug test result">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="medical health" target="health history">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="device base" target="browser fingerprint">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="device base" target="ip address">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="device base" target="mac address">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="device base" target="device software">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="payment card number" target="credit card number">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="biometric" target="retina">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="biometric" target="fingerprint">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="biometric" target="facial print">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="vehicle" target="vehicle usage">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="vehicle" target="vehicle license">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="communication" target="social medium communication">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="communication" target="social medium">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="communication" target="email content">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="communication" target="voice mail">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="communication" target="voice communication record">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="social network" target="acquantaince">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="social network" target="group membership">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="social network" target="association">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="social network" target="connection">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="social network" target="friend">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="health" target="physical health">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="health" target="mental health">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="health" target="genetic">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="demographic" target="physical trait">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="demographic" target="geographic">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="demographic" target="income bracket">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="education" target="education qualification">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="education" target="education experience">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="vehicle license" target="vehicle license number">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="vehicle license" target="vehicle license registration">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="preference" target="opinion">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="preference" target="privacy preference">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="preference" target="favorite">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="preference" target="intention">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="preference" target="interest">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="sexual" target="fetish">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="sexual" target="sexual preference">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="sexual" target="sexual history">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="sexual" target="proclivitie">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="official id" target="passport">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="health history" target="family health history">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="health history" target="individual health history">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="location" target="birth place">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="location" target="room number">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="location" target="gps coordinate">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="location" target="travel history">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="location" target="country">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="social" target="communication">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="social" target="social network">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="social" target="criminal">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="social" target="public life">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="social" target="professional">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="social" target="family">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="interest" target="dislike">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="interest" target="like">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="email address" target="email address personal">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="email address" target="email address work">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="ownership" target="car own">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="ownership" target="personal possession">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="ownership" target="house own">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="family" target="relationship">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="family" target="family structure">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="favorite" target="favorite food">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="favorite" target="favorite color">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="favorite" target="favorite music">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="criminal" target="criminal offense">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="criminal" target="criminal conviction">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="criminal" target="criminal pardon">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="criminal" target="criminal charge">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="public life" target="communication metadata">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="public life" target="marital status">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="public life" target="character">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="public life" target="religion">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="public life" target="general reputation">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="public life" target="interaction">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="public life" target="social status">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="public life" target="political opinion">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="public life" target="political affiliation">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="credit" target="credit stand">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="credit" target="credit record">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="credit" target="credit capacity">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="credit" target="credit worthiness">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="financial" target="transactional">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="financial" target="ownership">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="financial" target="insurance">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="financial" target="financial account">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="financial" target="financial status">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="transactional" target="transaction">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="transactional" target="loan record">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="transactional" target="income">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="transactional" target="sale">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="transactional" target="purchase">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="transactional" target="credit">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="transactional" target="tax">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="transactional" target="purchase and spend habit">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="knowledge and belief" target="think">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="knowledge and belief" target="philosophical belief">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="knowledge and belief" target="religious belief">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="internal" target="preference">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="internal" target="authenticate">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="internal" target="knowledge and belief">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="house own" target="apartment own">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="device software" target="device application">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="device software" target="device operate system">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="social medium" target="publicly available social medium">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="service consumption behavior" target="tv view behavior">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="historical" target="life history">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="browse behavior" target="browse referral">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="browse behavior" target="browser history">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="employment history" target="past employment">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="employment history" target="current employment">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="age range" target="age exact">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="group membership" target="trade union membership">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="authenticate" target="password">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="authenticate" target="secret text">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="authenticate" target="pin code">
+  <data key="d2">"has subclass"</data>
+</edge>
+<edge source="credit worthiness" target="credit score">
+  <data key="d2">"has subclass"</data>
+</edge>
+</graph></graphml>

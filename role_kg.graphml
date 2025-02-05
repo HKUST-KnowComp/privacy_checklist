@@ -1,0 +1,2155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="source" attr.type="string"/>
+<key id="d0" for="edge" attr.name="relation" attr.type="string"/>
+<graph edgedefault="directed"><node id="person"/>
+<node id="inhabitant"/>
+<node id="female sibling"/>
+<node id="sister"/>
+<node id="evaluator"/>
+<node id="arbiter"/>
+<node id="bad person"/>
+<node id="professional"/>
+<node id="lawyer"/>
+<node id="third party"/>
+<node id="sick person"/>
+<node id="patient"/>
+<node id="female"/>
+<node id="member"/>
+<node id="brother"/>
+<node id="relative"/>
+<node id="authority"/>
+<node id="contestant"/>
+<node id="wrongdoer"/>
+<node id="woman"/>
+<node id="girl"/>
+<node id="important person"/>
+<node id="name"/>
+<node id="tennis player"/>
+<node id="court"/>
+<node id="libertine"/>
+<node id="violator"/>
+<node id="offspring"/>
+<node id="fiduciary"/>
+<node id="executor"/>
+<node id="entertainer"/>
+<node id="nanny"/>
+<node id="worker"/>
+<node id="skilled worker"/>
+<node id="health professional"/>
+<node id="pharmacist"/>
+<node id="employee"/>
+<node id="spouse"/>
+<node id="defender"/>
+<node id="keeper"/>
+<node id="adult"/>
+<node id="acquirer"/>
+<node id="player"/>
+<node id="card player"/>
+<node id="unskilled person"/>
+<node id="novice"/>
+<node id="creator"/>
+<node id="artist"/>
+<node id="capitalist"/>
+<node id="communicator"/>
+<node id="negotiator"/>
+<node id="medical practitioner"/>
+<node id="descendant"/>
+<node id="child"/>
+<node id="preserver"/>
+<node id="american"/>
+<node id="tennessean"/>
+<node id="businessperson"/>
+<node id="supplier"/>
+<node id="advocate"/>
+<node id="supporter"/>
+<node id="representative"/>
+<node id="mediator"/>
+<node id="interpreter"/>
+<node id="painter"/>
+<node id="grant"/>
+<node id="expert"/>
+<node id="volunteer"/>
+<node id="genitor"/>
+<node id="parent"/>
+<node id="benefactor"/>
+<node id="provider"/>
+<node id="adjudicator"/>
+<node id="judge"/>
+<node id="trainee"/>
+<node id="party"/>
+<node id="contractor"/>
+<node id="nurse"/>
+<node id="confidant"/>
+<node id="repository"/>
+<node id="serviceman"/>
+<node id="bridge player"/>
+<node id="therapist"/>
+<node id="chiropractor"/>
+<node id="caregiver"/>
+<node id="writer"/>
+<node id="scholar"/>
+<node id="theologian"/>
+<node id="head of state"/>
+<node id="president of the united states"/>
+<node id="assistant"/>
+<node id="friend"/>
+<node id="head"/>
+<node id="administrator"/>
+<node id="doctor of the church"/>
+<node id="military officer"/>
+<node id="peer"/>
+<node id="associate"/>
+<node id="service"/>
+<node id="scientist"/>
+<node id="psychologist"/>
+<node id="specialist"/>
+<node id="principal"/>
+<node id="criminal"/>
+<node id="intellectual"/>
+<node id="builder"/>
+<node id="kinswoman"/>
+<node id="religious"/>
+<node id="monk"/>
+<node id="unfortunate"/>
+<node id="doctor"/>
+<node id="domestic partner"/>
+<node id="female offspring"/>
+<node id="daughter"/>
+<node id="secretary"/>
+<node id="kinsman"/>
+<node id="case"/>
+<node id="general officer"/>
+<node id="general"/>
+<node id="baby"/>
+<node id="athlete"/>
+<node id="performer"/>
+<node id="actor"/>
+<node id="official"/>
+<node id="kin"/>
+<node id="trustee"/>
+<node id="personal representative"/>
+<node id="enrollee"/>
+<node id="acquaintance"/>
+<node id="buddy"/>
+<node id="progenitor"/>
+<node id="good person"/>
+<node id="leader"/>
+<node id="ally"/>
+<node id="juvenile"/>
+<node id="nun"/>
+<node id="commissioned officer"/>
+<node id="commissioned military officer"/>
+<node id="religious person"/>
+<node id="research worker"/>
+<node id="spokesperson"/>
+<node id="christian"/>
+<node id="ancestor"/>
+<node id="practitioner"/>
+<node id="male sibling"/>
+<node id="recipient"/>
+<node id="dependant"/>
+<node id="subcontractor"/>
+<node id="charge"/>
+<node id="dentist"/>
+<node id="employer"/>
+<node id="surgeon"/>
+<node id="accountant"/>
+<node id="cover entity"/>
+<node id="health plan"/>
+<node id="health care provider"/>
+<node id="health care clearinghouses"/>
+<node id="health insurance company"/>
+<node id="hmo"/>
+<node id="company health plan"/>
+<node id="certain government program"/>
+<node id="clinic"/>
+<node id="hospital"/>
+<node id="nurse home"/>
+<node id="pharmacy"/>
+<node id="business associate"/>
+<node id="various type insurer"/>
+<node id="court order"/>
+<node id="order administrative tribunal"/>
+<node id="notice"/>
+<node id="health privacy right"/>
+<node id="may use share health information"/>
+<node id="family member"/>
+<node id="mobile application"/>
+<node id="researcher"/>
+<node id="dental insurance"/>
+<node id="vision insurance"/>
+<node id="prescription drug insurer"/>
+<node id="medicare"/>
+<node id="medicaid"/>
+<node id=""/>
+<node id="medicare supplement insurer"/>
+<node id="care insurer"/>
+<node id="group health plan"/>
+<node id="certain insurance entity"/>
+<node id="worker compensation"/>
+<node id="automobile insurance"/>
+<node id="property casualty insurance"/>
+<node id="institutional provider"/>
+<node id="physician"/>
+<node id="person organization furnish bill pay health care"/>
+<node id="health care clearinghouse"/>
+<node id="bill service"/>
+<node id="repricing company"/>
+<node id="community health management information system"/>
+<node id="network switch perform clearinghouse function"/>
+<node id="common identifier"/>
+<node id="address"/>
+<node id="birth date"/>
+<node id="social security number"/>
+<node id="health care operation"/>
+<node id="quality assessment improvement activity"/>
+<node id="conduct medical review"/>
+<node id="business plan"/>
+<node id="protect health information"/>
+<node id="certain element"/>
+<node id="point contact information"/>
+<node id="workforce member"/>
+<node id="person whose conduct direct control entity"/>
+<node id="privacy rule"/>
+<node id="provision"/>
+<edge source="person" target="inhabitant">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="bad person">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="female">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="relative">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="contestant">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="entertainer">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="acquirer">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="capitalist">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="expert">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="fiduciary">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="child">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="party">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="creator">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="intellectual">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="domestic partner">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="peer">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="case">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="unskilled person">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="unfortunate">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="adult">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="enrollee">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="acquaintance">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="advocate">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="preserver">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="good person">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="communicator">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="friend">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="religious person">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="juvenile">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="worker">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="adjudicator">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="scientist">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="leader">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="person" target="interpreter">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="inhabitant" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="inhabitant" target="american">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="female sibling" target="sister">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="female sibling" target="kinswoman">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="sister" target="female sibling">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="sister" target="member">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="sister" target="nun">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="evaluator" target="arbiter">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="evaluator" target="authority">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="arbiter" target="evaluator">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="arbiter" target="third party">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="bad person" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="bad person" target="wrongdoer">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="bad person" target="libertine">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="professional" target="lawyer">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="professional" target="health professional">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="professional" target="adult">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="professional" target="practitioner">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="lawyer" target="professional">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="third party" target="arbiter">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="sick person" target="patient">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="sick person" target="unfortunate">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="patient" target="sick person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="patient" target="case">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="female" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="female" target="woman">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="female" target="female offspring">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="member" target="brother">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="member" target="sister">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="member" target="associate">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="brother" target="member">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="brother" target="friend">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="brother" target="male sibling">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="brother" target="monk">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="relative" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="relative" target="offspring">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="relative" target="spouse">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="relative" target="descendant">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="relative" target="kinsman">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="relative" target="kin">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="relative" target="ancestor">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="relative" target="kinswoman">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="authority" target="evaluator">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="authority" target="expert">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="contestant" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="contestant" target="player">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="contestant" target="athlete">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="wrongdoer" target="bad person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="wrongdoer" target="principal">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="woman" target="girl">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="woman" target="nanny">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="woman" target="adult">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="woman" target="female">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="girl" target="woman">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="girl" target="baby">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="important person" target="name">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="important person" target="adult">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="name" target="important person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="name" target="common identifier">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['What Information is Protected']</data>
+</edge>
+<edge source="tennis player" target="court">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="tennis player" target="player">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="tennis player" target="athlete">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="court" target="tennis player">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="libertine" target="violator">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="libertine" target="bad person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="violator" target="libertine">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="violator" target="criminal">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="offspring" target="relative">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="offspring" target="child">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="fiduciary" target="executor">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="fiduciary" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="fiduciary" target="trustee">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="fiduciary" target="administrator">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="executor" target="fiduciary">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="entertainer" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="entertainer" target="performer">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="nanny" target="woman">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="nanny" target="keeper">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="worker" target="skilled worker">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="worker" target="employee">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="worker" target="volunteer">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="worker" target="assistant">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="worker" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="skilled worker" target="worker">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="skilled worker" target="official">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="skilled worker" target="serviceman">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="health professional" target="pharmacist">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="health professional" target="medical practitioner">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="health professional" target="nurse">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="health professional" target="professional">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="pharmacist" target="health professional">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="employee" target="worker">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="employee" target="workforce member">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Administrative Requirements']</data>
+</edge>
+<edge source="spouse" target="relative">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="spouse" target="domestic partner">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="defender" target="keeper">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="defender" target="preserver">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="keeper" target="defender">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="keeper" target="nanny">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="adult" target="woman">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="adult" target="caregiver">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="adult" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="adult" target="professional">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="adult" target="important person">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="acquirer" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="acquirer" target="recipient">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="player" target="card player">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="player" target="tennis player">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="player" target="contestant">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="card player" target="player">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="card player" target="bridge player">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="unskilled person" target="novice">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="unskilled person" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="novice" target="unskilled person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="novice" target="trainee">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="creator" target="artist">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="creator" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="artist" target="creator">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="artist" target="painter">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="capitalist" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="capitalist" target="businessperson">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="communicator" target="negotiator">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="communicator" target="writer">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="communicator" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="negotiator" target="communicator">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="negotiator" target="representative">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="negotiator" target="mediator">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="medical practitioner" target="health professional">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="medical practitioner" target="doctor">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="medical practitioner" target="dentist">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="descendant" target="child">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="descendant" target="relative">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="child" target="descendant">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="child" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="child" target="juvenile">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="child" target="female offspring">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="child" target="offspring">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="preserver" target="defender">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="preserver" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="american" target="tennessean">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="american" target="inhabitant">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="tennessean" target="american">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="businessperson" target="supplier">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="businessperson" target="capitalist">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="businessperson" target="accountant">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="supplier" target="businessperson">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="advocate" target="supporter">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="advocate" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="advocate" target="spokesperson">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="supporter" target="advocate">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="representative" target="negotiator">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="representative" target="personal representative">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="representative" target="head of state">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="mediator" target="interpreter">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="mediator" target="negotiator">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="interpreter" target="mediator">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="interpreter" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="painter" target="grant">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="painter" target="artist">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="grant" target="painter">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="grant" target="president of the united states">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="grant" target="general">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="grant" target="actor">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="expert" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="expert" target="specialist">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="expert" target="therapist">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="expert" target="authority">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="volunteer" target="worker">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="volunteer" target="serviceman">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="volunteer" target="workforce member">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Administrative Requirements']</data>
+</edge>
+<edge source="genitor" target="parent">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="genitor" target="progenitor">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="parent" target="genitor">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="benefactor" target="provider">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="benefactor" target="good person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="provider" target="benefactor">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="provider" target="health care provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="provider" target="physician">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="provider" target="dentist">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="provider" target="practitioner">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="adjudicator" target="judge">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="adjudicator" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="judge" target="adjudicator">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="judge" target="official">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="trainee" target="novice">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="trainee" target="workforce member">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Administrative Requirements']</data>
+</edge>
+<edge source="party" target="contractor">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="party" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="contractor" target="party">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="contractor" target="bridge player">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="contractor" target="builder">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="contractor" target="subcontractor">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="contractor" target="business associate">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="nurse" target="health professional">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="confidant" target="repository">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="confidant" target="friend">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="repository" target="confidant">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="serviceman" target="volunteer">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="serviceman" target="military officer">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="serviceman" target="skilled worker">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="bridge player" target="card player">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="bridge player" target="contractor">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="therapist" target="chiropractor">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="therapist" target="expert">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="chiropractor" target="therapist">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="chiropractor" target="health care provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="caregiver" target="adult">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="caregiver" target="personal representative">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Get it. Check it. Use it.']</data>
+</edge>
+<edge source="writer" target="communicator">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="writer" target="service">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="scholar" target="theologian">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="scholar" target="intellectual">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="scholar" target="doctor">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="theologian" target="scholar">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="theologian" target="doctor of the church">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="head of state" target="president of the united states">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="head of state" target="representative">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="president of the united states" target="head of state">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="president of the united states" target="grant">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="assistant" target="worker">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="assistant" target="secretary">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="friend" target="brother">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="friend" target="buddy">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="friend" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="friend" target="christian">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="friend" target="confidant">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="head" target="administrator">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="head" target="secretary">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="head" target="leader">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="administrator" target="head">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="administrator" target="fiduciary">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="doctor of the church" target="theologian">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="military officer" target="serviceman">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="military officer" target="commissioned officer">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="peer" target="associate">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="peer" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="associate" target="peer">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="associate" target="member">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="associate" target="ally">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="service" target="writer">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="scientist" target="psychologist">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="scientist" target="research worker">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="scientist" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="psychologist" target="scientist">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="psychologist" target="health care provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="specialist" target="expert">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="specialist" target="doctor">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="principal" target="criminal">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="principal" target="wrongdoer">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="criminal" target="principal">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="criminal" target="violator">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="intellectual" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="intellectual" target="scholar">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="builder" target="contractor">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="kinswoman" target="female sibling">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="kinswoman" target="relative">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="religious" target="monk">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="religious" target="nun">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="religious" target="religious person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="monk" target="religious">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="monk" target="brother">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="unfortunate" target="sick person">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="unfortunate" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="doctor" target="specialist">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="doctor" target="scholar">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="doctor" target="medical practitioner">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="doctor" target="surgeon">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="doctor" target="health care provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="domestic partner" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="domestic partner" target="spouse">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="female offspring" target="daughter">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="female offspring" target="child">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="female offspring" target="female">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="daughter" target="female offspring">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="secretary" target="head">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="secretary" target="assistant">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="kinsman" target="relative">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="kinsman" target="male sibling">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="case" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="case" target="patient">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="general officer" target="general">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="general officer" target="commissioned military officer">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="general" target="general officer">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="general" target="grant">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="baby" target="girl">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="athlete" target="tennis player">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="athlete" target="contestant">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="performer" target="actor">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="performer" target="entertainer">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="actor" target="performer">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="actor" target="grant">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="official" target="skilled worker">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="official" target="judge">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="kin" target="relative">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="trustee" target="fiduciary">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="personal representative" target="representative">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="personal representative" target="family member">
+  <data key="d0">subsume</data>
+  <data key="d1">['Get it. Check it. Use it.']</data>
+</edge>
+<edge source="personal representative" target="caregiver">
+  <data key="d0">subsume</data>
+  <data key="d1">['Get it. Check it. Use it.']</data>
+</edge>
+<edge source="personal representative" target="mobile application">
+  <data key="d0">subsume</data>
+  <data key="d1">['Get it. Check it. Use it.']</data>
+</edge>
+<edge source="personal representative" target="researcher">
+  <data key="d0">subsume</data>
+  <data key="d1">['Get it. Check it. Use it.']</data>
+</edge>
+<edge source="enrollee" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="acquaintance" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="buddy" target="friend">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="progenitor" target="genitor">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="progenitor" target="ancestor">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="good person" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="good person" target="benefactor">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="leader" target="head">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="leader" target="employer">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="leader" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="ally" target="associate">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="juvenile" target="child">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="juvenile" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="nun" target="sister">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="nun" target="religious">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="commissioned officer" target="military officer">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="commissioned officer" target="commissioned military officer">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="commissioned military officer" target="general officer">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="commissioned military officer" target="commissioned officer">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="religious person" target="person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="religious person" target="christian">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="religious person" target="religious">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="research worker" target="scientist">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="spokesperson" target="advocate">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="christian" target="religious person">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="christian" target="friend">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="ancestor" target="progenitor">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="ancestor" target="relative">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="practitioner" target="professional">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="practitioner" target="provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="male sibling" target="brother">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="male sibling" target="kinsman">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="recipient" target="dependant">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="recipient" target="acquirer">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="dependant" target="recipient">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="dependant" target="charge">
+  <data key="d0">subsume</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="subcontractor" target="contractor">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="subcontractor" target="business associate">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="charge" target="dependant">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="dentist" target="medical practitioner">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="dentist" target="health care provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="dentist" target="provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="employer" target="leader">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="surgeon" target="doctor">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="accountant" target="businessperson">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">wordnet</data>
+</edge>
+<edge source="cover entity" target="health plan">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="cover entity" target="health care provider">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="cover entity" target="health care clearinghouses">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health plan" target="cover entity">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health plan" target="health insurance company">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health plan" target="hmo">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health plan" target="company health plan">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health plan" target="certain government program">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health plan" target="various type insurer">
+  <data key="d0">subsume</data>
+  <data key="d1">['Covered Entities']</data>
+</edge>
+<edge source="health plan" target="dental insurance">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health plan" target="vision insurance">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health plan" target="prescription drug insurer">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health plan" target="medicare">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health plan" target="medicaid">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health plan" target="">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health plan" target="medicare supplement insurer">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health plan" target="care insurer">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health plan" target="group health plan">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health plan" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health care provider" target="cover entity">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health care provider" target="doctor">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health care provider" target="clinic">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health care provider" target="hospital">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health care provider" target="psychologist">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health care provider" target="chiropractor">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health care provider" target="nurse home">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health care provider" target="pharmacy">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health care provider" target="dentist">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health care provider" target="institutional provider">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health care provider" target="provider">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health care provider" target="person organization furnish bill pay health care">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health care clearinghouses" target="cover entity">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="health insurance company" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="hmo" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="company health plan" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="certain government program" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="clinic" target="health care provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="hospital" target="health care provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="hospital" target="institutional provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="nurse home" target="health care provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="pharmacy" target="health care provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="business associate" target="contractor">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="business associate" target="subcontractor">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who Must Follow These Laws']</data>
+</edge>
+<edge source="various type insurer" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Covered Entities']</data>
+</edge>
+<edge source="court order" target="order administrative tribunal">
+  <data key="d0">subsume</data>
+  <data key="d1">['Court Orders and Subpoenas']</data>
+</edge>
+<edge source="order administrative tribunal" target="court order">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Court Orders and Subpoenas']</data>
+</edge>
+<edge source="notice" target="health privacy right">
+  <data key="d0">subsume</data>
+  <data key="d1">['Notice of Privacy Practices']</data>
+</edge>
+<edge source="notice" target="may use share health information">
+  <data key="d0">subsume</data>
+  <data key="d1">['Notice of Privacy Practices']</data>
+</edge>
+<edge source="notice" target="certain element">
+  <data key="d0">subsume</data>
+  <data key="d1">['Notice and Other Individual Rights']</data>
+</edge>
+<edge source="notice" target="point contact information">
+  <data key="d0">subsume</data>
+  <data key="d1">['Notice and Other Individual Rights']</data>
+</edge>
+<edge source="health privacy right" target="notice">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Notice of Privacy Practices']</data>
+</edge>
+<edge source="may use share health information" target="notice">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Notice of Privacy Practices']</data>
+</edge>
+<edge source="family member" target="personal representative">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Get it. Check it. Use it.']</data>
+</edge>
+<edge source="mobile application" target="personal representative">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Get it. Check it. Use it.']</data>
+</edge>
+<edge source="researcher" target="personal representative">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Get it. Check it. Use it.']</data>
+</edge>
+<edge source="dental insurance" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="vision insurance" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="prescription drug insurer" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="medicare" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="medicaid" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="medicare supplement insurer" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="care insurer" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="group health plan" target="health plan">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="certain insurance entity" target="worker compensation">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="certain insurance entity" target="automobile insurance">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="certain insurance entity" target="property casualty insurance">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="worker compensation" target="certain insurance entity">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="automobile insurance" target="certain insurance entity">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="property casualty insurance" target="certain insurance entity">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="institutional provider" target="health care provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="institutional provider" target="hospital">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="physician" target="provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="person organization furnish bill pay health care" target="health care provider">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health care clearinghouse" target="bill service">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health care clearinghouse" target="repricing company">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health care clearinghouse" target="community health management information system">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="health care clearinghouse" target="network switch perform clearinghouse function">
+  <data key="d0">subsume</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="bill service" target="health care clearinghouse">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="repricing company" target="health care clearinghouse">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="community health management information system" target="health care clearinghouse">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="network switch perform clearinghouse function" target="health care clearinghouse">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Who is Covered by the Privacy Rule']</data>
+</edge>
+<edge source="common identifier" target="name">
+  <data key="d0">subsume</data>
+  <data key="d1">['What Information is Protected']</data>
+</edge>
+<edge source="common identifier" target="address">
+  <data key="d0">subsume</data>
+  <data key="d1">['What Information is Protected']</data>
+</edge>
+<edge source="common identifier" target="birth date">
+  <data key="d0">subsume</data>
+  <data key="d1">['What Information is Protected']</data>
+</edge>
+<edge source="common identifier" target="social security number">
+  <data key="d0">subsume</data>
+  <data key="d1">['What Information is Protected']</data>
+</edge>
+<edge source="address" target="common identifier">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['What Information is Protected']</data>
+</edge>
+<edge source="birth date" target="common identifier">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['What Information is Protected']</data>
+</edge>
+<edge source="social security number" target="common identifier">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['What Information is Protected']</data>
+</edge>
+<edge source="health care operation" target="quality assessment improvement activity">
+  <data key="d0">subsume</data>
+  <data key="d1">['Permitted Uses and Disclosures']</data>
+</edge>
+<edge source="health care operation" target="conduct medical review">
+  <data key="d0">subsume</data>
+  <data key="d1">['Permitted Uses and Disclosures']</data>
+</edge>
+<edge source="health care operation" target="business plan">
+  <data key="d0">subsume</data>
+  <data key="d1">['Permitted Uses and Disclosures']</data>
+</edge>
+<edge source="health care operation" target="protect health information">
+  <data key="d0">subsume</data>
+  <data key="d1">['Permitted Uses and Disclosures']</data>
+</edge>
+<edge source="quality assessment improvement activity" target="health care operation">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Permitted Uses and Disclosures']</data>
+</edge>
+<edge source="conduct medical review" target="health care operation">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Permitted Uses and Disclosures']</data>
+</edge>
+<edge source="business plan" target="health care operation">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Permitted Uses and Disclosures']</data>
+</edge>
+<edge source="protect health information" target="health care operation">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Permitted Uses and Disclosures']</data>
+</edge>
+<edge source="certain element" target="notice">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Notice and Other Individual Rights']</data>
+</edge>
+<edge source="point contact information" target="notice">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Notice and Other Individual Rights']</data>
+</edge>
+<edge source="workforce member" target="employee">
+  <data key="d0">subsume</data>
+  <data key="d1">['Administrative Requirements']</data>
+</edge>
+<edge source="workforce member" target="volunteer">
+  <data key="d0">subsume</data>
+  <data key="d1">['Administrative Requirements']</data>
+</edge>
+<edge source="workforce member" target="trainee">
+  <data key="d0">subsume</data>
+  <data key="d1">['Administrative Requirements']</data>
+</edge>
+<edge source="workforce member" target="person whose conduct direct control entity">
+  <data key="d0">subsume</data>
+  <data key="d1">['Administrative Requirements']</data>
+</edge>
+<edge source="person whose conduct direct control entity" target="workforce member">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Administrative Requirements']</data>
+</edge>
+<edge source="privacy rule" target="provision">
+  <data key="d0">subsume</data>
+  <data key="d1">['Organizational Options']</data>
+</edge>
+<edge source="provision" target="privacy rule">
+  <data key="d0">is subsumed by</data>
+  <data key="d1">['Organizational Options']</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,1 @@
+python emb_sim_search.py --log_path Qwen2-7B-Instruct--emb_search_with_gt.txt --use_gt True
