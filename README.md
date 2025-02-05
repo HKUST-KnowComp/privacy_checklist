@@ -3,7 +3,7 @@
 Code for NAACL 25 paper: Privacy Checklist: Privacy Violation Detection Grounding on Contextual Integrity Theory (https://arxiv.org/abs/2408.10053)
 
 <div align="center">
-<img src="overview-1.png" alt="Overview of our proposed workflow." style="width:50%; height:auto;">
+<img src="overview-1.png" alt="Overview of our proposed workflow." style="width:70%; height:auto;">
 </div>
 
 
