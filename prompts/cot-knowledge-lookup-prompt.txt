@@ -1,0 +1,26 @@
+I will provide you with an event concerning the delivery of information. Your task is to generate content related to this event by applying your knowledge of HIPAA regulations.
+
+To ensure the content is relevant and accurate, follow these steps:
+
+1. Understand the Event: Clearly define and understand the specifics of the event. Identify the key players involved, the type of information being handled, and the context in which it is being delivered.
+2. Apply HIPAA Knowledge: Utilize your understanding of HIPAA regulations, focusing on privacy, security, and the minimum necessary information principles. Ensure that your content addresses these aspects in the context of the event.
+
+Event Details:
+{event}
+
+Output Format:
+
+Execution:
+
+1. Identify the key players, type of information, and context.
+2. Apply relevant HIPAA principles to the event.
+
+Generated HIPAA Content:
+1. HIPAA Privacy Rule: ...
+2. HIPAA Security Rule: ...
+3. Minimum Necessary Standard:...
+
+References:
+List the specific HIPAA regulations you consulted to generate the content.
+
+Assistant:

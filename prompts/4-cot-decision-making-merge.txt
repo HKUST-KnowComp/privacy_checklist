@@ -1,0 +1,33 @@
+Assess the relationship between the provided event and HIPAA regulations, and select one of the following conclusions:
+
+(A) The event is prohibited by HIPAA.
+(B) The event is permitted by HIPAA.
+(C) The event is not related to HIPAA.
+
+You will be given some sections of HIPAA regulations for reference (Note: these references may not be 100% accurate). Your task is to consider the specifics of the event in light of these sections. Remember that the provided references are not exhaustive, and the presence of a regulation does not automatically imply relevance or violation.
+
+Event:
+{event}
+
+HIPAA Regulations Reference:
+{reference_regulations}
+
+Let's complete it step by step:
+1. Analyze the specific details of the event by identifying who is involved (sender and recipient), what information is being sent or requested, and for what purpose.
+2. Compare key elements of the event with HIPAA rules, identifying if they involve the use, disclosure, or protection of Protected Health Information (PHI) as defined by HIPAA.
+3. Evaluate the provided HIPAA regulation excerpts to see if they directly relate to the event.
+4. Consider if there are other HIPAA rules not mentioned in the excerpts that might apply.
+5. Conclude based on the comprehensive analysis whether the event is in compliance, in violation, or unrelated to HIPAA.
+
+Output Format:
+
+Execution: [Document the outcomes from executing each step]:
+1. - ...
+2. - ...
+...
+5. - ...
+
+
+Choice: [A. Prohibited | B. Permitted | C. Not related]
+
+Assistant:

@@ -1,0 +1,15 @@
+Determine the relationship between the provided event and HIPAA regulations. You have three options for your conclusion:
+(A) The event is prohibited by HIPAA.
+(B) The event is permitted by HIPAA.
+(C) The event is not related to HIPAA.
+
+Event:
+{event}
+
+Output Format:
+
+Choice: [A. Prohibited | B. Permitted | C. Not related ]
+
+Assistant:
+
+

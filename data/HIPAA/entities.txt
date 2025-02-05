@@ -1,0 +1,416 @@
+﻿<-Who Must Follow These Laws->
+Covered entities
+Health Plans
+Health insurance companies
+HMOsCompany health plans
+Certain government programs (e.g., Medicare and Medicaid)
+Health Care Providers
+Doctors
+Clinics
+Hospitals
+Psychologists
+Chiropractors
+Nursing homes
+Pharmacies
+Dentists
+Health Care Clearinghouses
+Business associates
+Contractors
+Subcontractors
+Outside persons and companies
+Billing companies
+IT specialists
+Lawyers
+Accountants
+Companies that store or destroy medical records
+
+
+<-Who Is Not Required to Follow These Laws->
+HIPAA
+Life insurers
+Employers
+Workers compensation carriers
+Schools and school districts
+State agencies (such as child protective service agencies)
+Law enforcement agencies
+Municipal offices
+
+
+<-What Information Is Protected ->
+Patient
+Doctors
+Nurses
+Other health care providers
+Health insurer
+Clinic
+
+
+<-How This Information Is Protected? ->
+Covered entities
+Your health information
+Business associates
+Employees
+
+
+<-What Rights Does the Privacy Rule Give Me over My Health Information? ->
+Health insurers
+Providers
+Covered entities
+You
+HHS (Department of Health and Human Services)
+
+
+<-Who Can Look at and Receive Your Health Information? ->
+Privacy Rule
+Your health information
+Doctors and hospitals
+Your family, relatives, friends, or others
+The public's health
+The police
+Your employer
+
+
+<-Covered Entities ->
+Privacy Rule
+Healthcare providers
+HHS
+HIPAA Transactions Rule
+Health plans
+Health maintenance organizations (HMOs)
+Medicare
+Medicaid
+Medicare+Choice
+Long-term care insurers
+Employer-sponsored group health plans
+Government- and church-sponsored health plans
+Multi-employer health plans
+Healthcare clearinghouses
+Business associates
+
+
+<-Permitted Uses and Disclosures ->
+PHI (Protected Health Information)
+Covered Entity
+Individual
+
+
+<-Your Medical Records ->
+Privacy Rule
+health plans
+health care providers
+HIPAA
+provider
+patient
+mental health professional
+
+
+<-Employers and Health Information in the Workplace ->
+Privacy Rule
+health plan
+covered health care provider
+employer
+employment records
+medical or health plan records
+patient
+member
+doctor's note
+sick leave
+workers' compensation
+wellness programs
+health insurance
+health care provider
+
+
+<-Personal Representatives ->
+HIPAA (Health Insurance Portability and Accountability Act)
+personal representative
+health care provider
+health plan
+protected health information
+state law
+health care power of attorney
+minor child
+parent
+legal guardian
+custody decree
+deceased individual
+executor
+administrator
+court
+
+
+<-Family Members and Friends->
+Privacy Rule
+health care provider
+health plan
+family
+friends
+personal representatives
+doctor
+hospital
+family member
+medical bill
+pharmacist
+
+
+<-Court Orders and Subpoenas->
+HIPAA (Health Insurance Portability and Accountability Act)
+health care provider
+health plan
+court order
+administrative tribunal
+Privacy Rule
+subpoena
+judge
+court clerk
+attorney
+
+
+<-Notice of Privacy Practices->
+HIPAA (Health Insurance Portability and Accountability Act)
+doctor
+health plan
+health care provider
+Privacy Rule
+HHS (U.S. Department of Health and Human Services)
+
+
+<-Get it. Check it. Use it.->
+doctor
+PDF
+
+
+<-Who is Covered by the Privacy Rule->
+Privacy Rule
+Administrative Simplification rules
+health plans
+health care clearinghouses
+health care provider
+electronic form
+transactions
+Secretary of HHS
+HIPAA
+CMS
+medical care
+dental
+vision
+prescription drug insurers
+HMOs
+Medicare
+Medicaid
+Medicare+Choice
+Medicare supplement insurers
+long-term care insurers
+nursing home fixed-indemnity policies
+employer-sponsored group health plans
+government-sponsored health plans
+church-sponsored health plans
+multi-employer health plans
+group health plan
+government-funded programs
+food stamps program
+community health center
+grants
+workers' compensation
+automobile insurance
+property and casualty insurance
+separable lines of business
+health care providers of services
+hospitals
+providers of medical or health services
+physicians
+dentists
+non-institutional providers
+health care clearinghouses
+individually identifiable health information
+billing services
+repricing companies
+community health management information systems
+value-added networks
+switches
+
+
+<-Business Associates->
+Covered entity
+Business associate
+Contractor
+Member
+Governmental entities
+Rule
+Protected health information
+
+
+<-What Information is Protected->
+Privacy Rule
+covered entity
+business associate
+PHI (Protected Health Information)
+Social Security Number
+Family Educational Rights and Privacy Act
+
+
+<-General Principle for Uses and Disclosures->
+Privacy Rule
+covered entities
+protected health information
+individual
+personal representative
+HHS
+Government Access
+
+
+<-Permitted Uses and Disclosures->
+covered entity
+protected health information
+individual
+health care provider
+health care operations
+health plan
+patient
+psychotherapy notes
+Privacy Rule
+pharmacist
+
+
+<-Limiting Uses and Disclosures to the Minimum Necessary->
+Privacy Rule
+Protected health information
+Life insurer
+Employer
+Pharmaceutical firm
+Psychotherapy Notes
+HHS
+Coronor or medical examiner
+Covered entity
+Health oversight agency
+Marketing
+Provider or health plan network
+Benefit plan
+Remuneration
+
+
+<-Notice and Other Individual Rights->
+HHS (U.S. Department of Health and Human Services)
+Covered entities
+Protected health information
+Direct treatment providers
+Laboratories
+Health plans
+Organized health care arrangement
+Enrollees
+
+
+<-Administrative Requirements->
+HHS (Department of Health and Human Services)
+Privacy Rule
+covered entity
+Privacy Personnel
+workforce members
+protected health information
+Secretary of HHS
+fully-insured group health plan
+health insurance issuer
+HMO (Health Maintenance Organization)
+
+
+<-Organizational Options->
+Privacy Rule
+covered entity
+health care components
+affiliated covered entity
+organized health care arrangements
+group health plan
+health insurer
+HMO
+plan sponsor
+employer
+union
+individual
+
+
+<-Other Provisions: Personal Representatives and Minors->
+Privacy Rule
+covered entity
+personal representative
+individual
+protected health information
+deceased individual
+estate
+minors
+parents
+State
+licensed health care professional
+
+
+<-State Law->
+Privacy Rule
+State
+HIPAA
+HHS
+Secretary
+
+
+<-Enforcement and Penalties for Noncompliance->
+covered entities
+protected health information
+Department of Health and Human Services
+Office for Civil Rights (OCR)
+civil money penalties
+Department of Justice
+
+
+<-FAQ->
+HIPAA Privacy Rule
+health plans
+health care providers
+national standards
+individuals
+medical records
+personal health information
+patients
+health records
+health care providers
+violators
+civil and criminal penalties
+public responsibility
+public health
+reimbursement
+HIPAA Privacy Rule
+telemarketer
+covered entity
+individual
+business associate
+third party
+health care provider
+family
+friends
+emergency room doctor
+hospital
+daughter
+charges
+doctor
+sister
+nurse
+brother
+health status
+condition
+HIPAA
+health care provider
+family
+friends
+emergency surgery
+surgeon
+spouse
+pharmacist
+prescription
+doctor
+drugs
+caregiver
+nurse
+medical problem
+identity
+phone
+medical supplies
+x-rays
+interpreter
+professional judgment
